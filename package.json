@@ -1,0 +1,26 @@
+{
+  "name": "el_geladon",
+  "version": "1.0.0",
+  "description": "Aplicação simulando e-commerce de vendas de palletas mexicanas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyrtonFSDiniz/El_Geladon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyrtonFSDiniz/El_Geladon/issues"
+  },
+  "homepage": "https://github.com/AyrtonFSDiniz/El_Geladon#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
